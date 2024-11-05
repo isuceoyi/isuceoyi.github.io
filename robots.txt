@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isuceoyi.github.io/ISf/sitemap_index.txt
+Sitemap: https://isuceoyi.github.io/Mhf/sitemap_index.txt
+Sitemap: https://isuceoyi.github.io/Nou/sitemap_index.txt
+Sitemap: https://isuceoyi.github.io/pTa/sitemap_index.txt
